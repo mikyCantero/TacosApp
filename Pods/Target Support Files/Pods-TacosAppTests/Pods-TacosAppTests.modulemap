@@ -1,0 +1,6 @@
+framework module Pods_TacosAppTests {
+  umbrella header "Pods-TacosAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
